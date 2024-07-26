@@ -1,8 +1,4 @@
-/*  We have the following database and tables 
-database: ig_clone
-tables : users, photos, comments, likes, follows, tags, photo_tags
-*/
-
+create database ig_clone;
 use ig_clone;
  
 # MARKET ANALYSIS
@@ -103,7 +99,6 @@ having  count(photo_id) = (
 	select count(id) from Photos
 );
 
--------------------------------------------------------------------------------------------
 
 
 
