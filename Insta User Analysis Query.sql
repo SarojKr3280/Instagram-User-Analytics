@@ -68,7 +68,7 @@ LIMIT 3;
 
 # INVESTOR METRICS
 -- User Engagement: Calculate the average number of posts per user on Instagram. 
--- 					Also, provide the total number of photos on Instagram divided by the total number of users.
+-- Also, provide the total number of photos on Instagram divided by the total number of users.
 
 select user_id, count(image_url) 
 from photos 
