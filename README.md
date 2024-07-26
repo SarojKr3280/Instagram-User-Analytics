@@ -20,5 +20,6 @@ B) Investor Metrics: Our investors want to know if Instagram is performing well 
 
 1.User Engagement: Are users still as active and post on Instagram or they are making fewer posts.
 Task: Calculate the average number of posts per user on Instagram. Also, provide the total number of photos on Instagram/total number of users
+<br>
 2. Bots & Fake Accounts: Identify users (potential bots) who have liked every single photo on the site, as this is not typically possible for a normal user.
 Task: Identify users (potential bots) who have liked every single photo on the site, as this is not typically possible for a normal user.
